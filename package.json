@@ -1,0 +1,34 @@
+{
+  "name": "@zjun92669-dotcom/jianying-control-skill",
+  "version": "1.0.0",
+  "description": "Control JianAI (JianYing) desktop video editor from WorkBuddy via local HTTP API",
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "LICENSE",
+    "NOTICE",
+    "README.md",
+    "agents/"
+  ],
+  "keywords": [
+    "workbuddy",
+    "skill",
+    "jianying",
+    "jianai",
+    "video-editor",
+    "automation"
+  ],
+  "author": "zjun92669-dotcom",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjun92669-dotcom/jianying-control-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zjun92669-dotcom/jianying-control-skill/issues"
+  },
+  "homepage": "https://github.com/zjun92669-dotcom/jianying-control-skill#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
