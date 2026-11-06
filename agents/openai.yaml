@@ -1,0 +1,7 @@
+interface:
+  display_name: "JianYing Control"
+  short_description: "Control the running JianAI desktop video editor over localhost."
+  default_prompt: "Use $jianying-control-skill to control the running JianAI app over its local HTTP API."
+
+policy:
+  allow_implicit_invocation: true
